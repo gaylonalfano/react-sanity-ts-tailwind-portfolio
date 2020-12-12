@@ -9,7 +9,7 @@ export default function NavBar() {
           <NavLink
             to="/"
             exact
-            className="inline-flex items-center py-6 px-3 mr-4 rounded-md text-gray-300 hover:text-white text-4xl font-bold cursive tracking-widest"
+            className="inline-flex items-center py-6 px-3 mr-4 rounded-md text-yellow-300 hover:text-white text-4xl font-bold cursive tracking-widest"
             activeClassName="text-white"
           >
             Gaylon
